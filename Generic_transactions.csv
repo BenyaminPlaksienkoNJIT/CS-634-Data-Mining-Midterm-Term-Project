@@ -1,0 +1,21 @@
+Transaction ID,Transaction
+Trans1,"C, D, B"
+Trans2,"A, E, B, F, D"
+Trans3,"D, C, F"
+Trans4,F
+Trans5,"A, C, F, E"
+Trans6,F
+Trans7,"C, F, D, E, B, A"
+Trans8,"A, E, F, B"
+Trans9,"F, E, B"
+Trans10,"B, E"
+Trans11,"D, C, B, F, A"
+Trans12,"A, D, B"
+Trans13,"C, D, B, E"
+Trans14,"C, A, E, B"
+Trans15,"E, B, A"
+Trans16,"C, E"
+Trans17,"E, C, A, B, D"
+Trans18,C
+Trans19,"D, A, F"
+Trans20,"A, F, B, C, E, D"
