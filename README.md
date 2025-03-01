@@ -15,7 +15,7 @@ Ensure you have the following software and libraries installed:
 ### Required Libraries
 Install the necessary Python libraries using pip:
 ```sh
-pip install mlxtend pandas numpy matplotlib
+pip install mlxtend pandas numpy matplotlib random csv time
 ```
 
 ## How It Works
@@ -68,5 +68,4 @@ The program displays:
 - The Apriori method is more efficient for large datasets but requires the `mlxtend` library.
 
 ## Author
-Developed for educational and analytical purposes in association rule mining.
-
+Benyamin Plaksienko
