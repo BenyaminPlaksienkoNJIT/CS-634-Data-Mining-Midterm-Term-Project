@@ -55,17 +55,6 @@ The program displays:
 - A runtime comparison between the brute-force and Apriori approaches.
 - Validation of matching itemsets and rules between both methods.
 
-## Key Functions
-- `pick_store_and_support()`: Takes user input for store selection and thresholds.
-- `extract_transactions_and_items(csv_file)`: Reads transaction data from CSV.
-- `brute_force_approach(csv_file, min_support, min_confidence)`: Implements brute-force mining.
-- `apriori_principle_approach(csv_file, min_support, min_confidence)`: Uses the Apriori algorithm.
-- `approach_print(frequent_itemsets, rules)`: Displays results.
-
-## Notes
-- Ensure the CSV transaction files are in the correct format with item lists.
-- The brute-force method may take longer for large datasets.
-- The Apriori method is more efficient for large datasets but requires the `mlxtend` library.
 
 ## Author
 Benyamin Plaksienko
