@@ -21,7 +21,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 def pick_store_and_support():
-    store_names = ["Amazon", "Best Buy", "K-Mart", "Nike", "Generic"]
+    store_names = ["Amazon", "Best_Buy", "K-Mart", "Nike", "Generic"]
     print("\nAvailable Stores:")
     for index, store in enumerate(store_names, start=1):
         print(f"{index}. {store}")
