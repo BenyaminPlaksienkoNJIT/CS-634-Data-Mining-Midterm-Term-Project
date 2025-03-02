@@ -1,4 +1,4 @@
-# README: Association Rule Mining Program
+# Association Rule Mining Program
 
 ## Overview
 This program implements association rule mining using two approaches:
